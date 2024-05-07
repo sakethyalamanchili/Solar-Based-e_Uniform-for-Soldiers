@@ -95,6 +95,7 @@ Additionally, you will need:
 - Arduino IDE (Integrated Development Environment) for writing, compiling, and uploading code to the Arduino ATmega328P.
 - ThingSpeak account for data logging and visualization. You can sign up for free at [ThingSpeak](https://thingspeak.com/).
 - u-center2 software for configuring and testing the NEO-6M GPS module.
+- Fritzing software for circuit diagram.
 
 For detailed instructions on assembly and programming, please refer to the documentation provided in the repository.
 
@@ -131,7 +132,7 @@ The data collected from various sensors is transmitted to Thingspeak for visuali
 - **Renewable Energy Integration**: By harnessing solar power, the uniform reduces reliance on traditional energy sources, making it more sustainable and environmentally friendly.
 - **Improved Safety**: The inclusion of a metal detector enhances soldier safety by providing early detection of potential threats in the field.
 
-## Future Scope
+## Future Scopes
 
 - **Advanced Sensor Integration**: Explore the integration of additional sensors such as gas sensors for detecting hazardous substances, or motion sensors for enhanced situational awareness.
 - **AI and Machine Learning Integration**: Implement AI algorithms to analyze sensor data and provide predictive insights, such as identifying patterns in environmental conditions or predicting equipment failures.
