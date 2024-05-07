@@ -53,7 +53,7 @@ This solar-based e-uniform integrates renewable energy and advanced electronics 
 
 ## Schematic Diagram
 
-<img src="Schematic-Diagram.png" alt="Schematic" width="600"/>
+<img src="Schematic-Diagram.png" alt="Schematic" width="800"/>
 The schematic diagram details the electrical circuitry for the “Solar-Based E-Uniform for Soldiers.” It starts with a Solar Panel, which captures solar energy and directs it to a Charge Controller. The controller’s role is to regulate the charging process of the Battery, ensuring the battery is charged efficiently and safely.
 
 The battery serves two critical functions in the circuit:
