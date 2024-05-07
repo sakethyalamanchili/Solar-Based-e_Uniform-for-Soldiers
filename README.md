@@ -97,7 +97,7 @@ Additionally, you will need:
 - u-center2 software for configuring and testing the NEO-6M GPS module.
 - Fritzing software for circuit diagram.
 
-For detailed instructions on assembly and programming, please refer to the documentation provided in the repository.
+For detailed instructions on assembly and programming, please refer to the [documentation](documentation-water_marked.pdf) provided in the repository.
 
 ## How to Use
 
