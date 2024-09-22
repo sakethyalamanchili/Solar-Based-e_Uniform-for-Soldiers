@@ -26,8 +26,8 @@ SoftwareSerial esp8266(RX, TX);
 LiquidCrystal_I2C lcd(0x27, 16, 2); // Set the LCD address to 0x27 for a 16 chars and 2 line display
 TinyGPSPlus gps;
 
-String WIFI_SSID = "Redmi Note 9 Pro";      // WIFI NAME
-String WIFI_PASS = "saketh2003";  // WIFI PASSWORD
+String WIFI_SSID = "wifiname";      // WIFI NAME
+String WIFI_PASS = "wifipassword";  // WIFI PASSWORD
 String API_KEY = "W641VGEDU8MBKCGU"; // ThingSpeak API Key
 String HOST = "api.thingspeak.com";
 String PORT = "80";
